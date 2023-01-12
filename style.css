@@ -33,6 +33,13 @@
     }
   }
   
+  /* Adnan photo Alignment*/
+  .adnan{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+  }
   /* Create two unequal columns that floats next to each other */
   /* Left column */
   .leftcolumn {
@@ -47,12 +54,6 @@
     padding-left: 20px;
   }
   
-  /* Fake image */
-  .fakeimg {
-    background-color: #aaa;
-    width: 100%;
-    padding: 20px;
-  }
   /*add effects for main blog*/
   .blog {
     background-color: #F1F5F8;

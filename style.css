@@ -66,6 +66,23 @@
     padding: 20px;
     margin-top: 20px;
   }
+
+/*Paragraph style */
+.pera{
+  font-size: 20px;
+  text-align: justify;
+}
+
+  /*Quote style */
+  blockquote{
+    font-size: 24px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 70px;
+    margin-inline-end: 200px;
+    font-style: italic;
+  }
   
   /* Clear floats after the columns */
   .row:after {

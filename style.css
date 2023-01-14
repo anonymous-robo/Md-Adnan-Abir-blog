@@ -75,12 +75,12 @@
 
   /*Quote style */
   blockquote{
-    font-size: 24px;
+    font-size: 22px;
     display: block;
     margin-block-start: 1em;
     margin-block-end: 1em;
     margin-inline-start: 70px;
-    margin-inline-end: 200px;
+    margin-inline-end: 50px;
     font-style: italic;
   }
   
